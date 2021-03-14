@@ -1,0 +1,5 @@
+server:
+  port: 8000
+
+startwars:
+  BASE_URL: "https://swapi.apis.guru"
